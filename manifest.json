@@ -5,6 +5,8 @@
 
     "description": "This addon is an unofficial fork of Mozilla's Facebook Container designed for X, and Twitter. \n Twitter/X Container isolates your Twitter activity from the rest of your web activity in order to prevent X from tracking you outside of the Twitter website via third party cookies. \n This is not an official Mozilla Product & is in no way related to them.",
 
+    "incognito": "not_allowed",
+
     "icons": {
         "48": "icon.png",
         "96": "icon@2x.png"
@@ -33,3 +35,4 @@
         "scripts": ["background.js"]
     }
 }
+
